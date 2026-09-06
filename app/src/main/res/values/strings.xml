@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jarvis AI</string>
+    <string name="accessibility_service_label">Jarvis AI Assistant Automation</string>
+    <string name="accessibility_service_description">Enables Jarvis to perform hands-free voice automation, slow swipes, clicking screen items (e.g. videos, buttons), navigation gestures, and app controls.</string>
+    <string name="overlay_service_label">Jarvis Arc Reactor Floating HUD</string>
+    <string name="notification_channel_name">Jarvis AI Background Engine</string>
+    <string name="notification_channel_desc">Maintains active voice listener and hands-free accessibility executor in the background.</string>
+</resources>

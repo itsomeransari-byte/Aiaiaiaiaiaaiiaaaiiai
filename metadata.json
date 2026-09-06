@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Voice-controlled AI assistant with hands-free mobile automation, slow gestures, and on-device accessibility control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
